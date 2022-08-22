@@ -37,6 +37,7 @@ header{
   height: 400px;
   margin-top: 20px;
   margin-left: 50px;
+  background-color: #4e8953;
   border: solid black 1px;
   border-radius: 5px;
 }
