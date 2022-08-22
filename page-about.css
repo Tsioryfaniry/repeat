@@ -46,3 +46,10 @@ header{
   color: #fff;
   text-shadow: 5px 5px 5px #000;
 }
+
+.paragraph{
+  font-size: 14px;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
